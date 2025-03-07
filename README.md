@@ -5,3 +5,4 @@ This repository contains all the work I've completed for this certificate progra
 This is the order of the courses:
 1. Foundations of Data Science
 2. Get Started With Python
+3. Go Beyond the Numbers: Translate Data into Insights
